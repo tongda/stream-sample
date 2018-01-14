@@ -1,0 +1,3 @@
+v1
+{"path":"file:///Users/dtong/code/projects/credit-suisse/stream-rationales/rationales/data/recommendations/part-00000-a2071e92-cff0-45ab-9332-866cb56a4a51.snappy.parquet","size":806,"isDir":false,"modificationTime":1515950982000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/dtong/code/projects/credit-suisse/stream-rationales/rationales/data/recommendations/part-00001-49c75cb4-56a4-4453-95b8-290cb4a4c72d.snappy.parquet","size":793,"isDir":false,"modificationTime":1515950982000,"blockReplication":1,"blockSize":33554432,"action":"add"}
